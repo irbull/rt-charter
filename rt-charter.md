@@ -1,10 +1,10 @@
 RT Project Charter
 =====
-This charter was developed in accordance with the [Eclipse Development Process](http://wiki.eclipse.org/Development_Resources/HOWTO/Proposal_Phase)  and outlines the mission, scope, organization, and development process for the Eclipse Runtime Project (RT). This document extends the [Eclipse Standard Top-Level Charter v1.1(http://www.eclipse.org/projects/dev_process/Eclipse_Standard_TopLevel_Charter_v1.1.php), and includes the required content and overrides which follow. It is anticipated that as the standard charter is updated, this charter will incorporate the changes and make adjustments as seen fit by the PMC, and with approval from the EMO and board of directors.
+This charter was developed in accordance with the [Eclipse Development Process](http://wiki.eclipse.org/Development_Resources/HOWTO/Proposal_Phase) and outlines the mission, scope, organization, and development process for the Eclipse Runtime Project (RT). This document extends the [Eclipse Standard Top-Level Charter v1.1(http://www.eclipse.org/projects/dev_process/Eclipse_Standard_TopLevel_Charter_v1.1.php), and includes the required content and overrides which follow. It is anticipated that as the standard charter is updated, this charter will incorporate the changes and make adjustments as seen fit by the PMC, and with approval from the EMO and board of directors.
 
 Overview
 -------
-Since the creation of the Eclipse Rich Client Platform (RCP) and the adoption of Equinox and OSGi in 2004, interest in and use of Eclipse technologies in runtime scenarios has been steadily increasing. Initially, the focus of these runtime efforts was on desktop or client technologies. The community has steadily found new and innovative uses for Equinox and the Eclipse platform in areas such as [devices](http://www.eclipse.org/ercp/), [rich internet applications](http://www.eclipse.org/rap/) and [servers](http://www.eclipse.org/equinox/server/).
+Since the creation of the Eclipse Rich Client Platform (RCP) and the adoption of Equinox and OSGi in 2004, interest in and use of Eclipse technologies in runtime scenarios has been steadily increasing. Initially, the focus of these runtime efforts was on desktop or client technologies. The community has steadily found new and innovative uses for Eclipse Technology in areas such as [servlet containers](http://www.eclipse.org/jetty/), [rich internet applications](http://www.eclipse.org/rap/) and [servers](http://www.eclipse.org/equinox/server/).
 
 RT is an open source collaborative software development project dedicated to supporting and enhancing these efforts and providing a generic, extensible, standards-based runtime platform.
 
@@ -12,12 +12,9 @@ This document describes the composition and organization of the project, roles a
 
 Mission
 ------
-RT is designed to foster, promote and house runtime efforts in the Eclipse community.  These efforts strive towards the common goal of providing a uniform component model 
-across a wide variety of computing environments. The Equinox framework and OSGi form the basis of this infrastructure.
+RT is designed to foster, promote and house runtime efforts in the Eclipse community.  
 
-RT projects target "clients" and "servers" across embedded devices, desktops, and enterprise systems, and provide those intermediate software services which enable applications to be more easily and concisely constructed across these environments. This supports and extends the Equinox vision of a consistent programming and component model where developers create application domain code that runs on a variety of platforms.
-
-By providing a consistent symmetric architecture, RT technology enables developers to focus on the business problem at hand and still have many system architecture options available at deployment time.
+RT projects target "clients" and "servers" across embedded devices, mobile platforms, desktops, and enterprise systems, and provide those intermediate software services which enable applications to be more easily and concisely constructed across these environments. 
 
 Scope
 ----
