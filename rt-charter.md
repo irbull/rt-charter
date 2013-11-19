@@ -1,9 +1,11 @@
 RT Project Charter
 =====
-This charter was developed in accordance with the Eclipse Development Process and 
-outlines the mission, scope, organization, and development process for the Eclipse 
-Runtime Project (RT). This document extends the Eclipse Standard Top-Level Charter 
-v1.1, and includes the required content and overrides which follow. It is 
+This charter was developed in accordance with the 
+[Eclipse Development Process](http://wiki.eclipse.org/Development_Resources/HOWTO/Proposal_Phase)  
+and outlines the mission, scope, organization, and development process for the Eclipse 
+Runtime Project (RT). This document extends the [Eclipse Standard Top-Level Charter 
+v1.1(http://www.eclipse.org/projects/dev_process/Eclipse_Standard_TopLevel_Charter_v1.1.php), 
+and includes the required content and overrides which follow. It is 
 anticipated that as the standard charter is updated, this charter will incorporate 
 the changes and make adjustments as seen fit by the PMC, and with approval from 
 the EMO and board of directors.
@@ -15,7 +17,9 @@ Equinox and OSGi in 2004, interest in and use of Eclipse technologies in runtime
 scenarios has been steadily increasing. Initially, the focus of these runtime 
 efforts was on desktop or client technologies. The community has steadily found 
 new and innovative uses for Equinox and the Eclipse platform in areas such as 
-devices, rich internet applications and servers.
+[devices](http://www.eclipse.org/ercp/), 
+[rich internet applications](http://www.eclipse.org/rap/) and 
+[servers](http://www.eclipse.org/equinox/server/).
 
 RT is an open source collaborative software development project dedicated to 
 supporting and enhancing these efforts and providing a generic, extensible, 
