@@ -1,6 +1,6 @@
 RT Project Charter
 =====
-This charter was developed in accordance with the [Eclipse Development Process](http://wiki.eclipse.org/Development_Resources/HOWTO/Proposal_Phase) and outlines the mission, scope, organization, and development process for the Eclipse Runtime Project (RT). This document extends the [Eclipse Standard Top-Level Charter v1.1(http://www.eclipse.org/projects/dev_process/Eclipse_Standard_TopLevel_Charter_v1.1.php), and includes the required content and overrides which follow. It is anticipated that as the standard charter is updated, this charter will incorporate the changes and make adjustments as seen fit by the PMC, and with approval from the EMO and board of directors.
+This charter was developed in accordance with the [Eclipse Development Process](http://wiki.eclipse.org/Development_Resources/HOWTO/Proposal_Phase) and outlines the mission, scope, organization, and development process for the Eclipse Runtime Project (RT). This document extends the [Eclipse Standard Top-Level Charter v1.1](http://www.eclipse.org/projects/dev_process/Eclipse_Standard_TopLevel_Charter_v1.1.php), and includes the required content and overrides which follow. It is anticipated that as the standard charter is updated, this charter will incorporate the changes and make adjustments as seen fit by the PMC, and with approval from the EMO and board of directors.
 
 Overview
 -------
